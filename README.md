@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://crislainesc.github.io/nlw-heat/" target="_blank">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://img.shields.io/website?label=webpage&style=plastic&up_color=blue&up_message=online&url=https%3A%2F%2Fcrislainesc.github.io%2Fnlw-heat%2F"/>
  </a>
 </p>
 
